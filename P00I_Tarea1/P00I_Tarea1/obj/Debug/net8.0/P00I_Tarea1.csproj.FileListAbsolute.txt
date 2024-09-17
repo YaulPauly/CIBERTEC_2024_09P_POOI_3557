@@ -1,0 +1,15 @@
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\P00I_Tarea1\P00I_Tarea1\bin\Debug\net8.0\P00I_Tarea1.exe
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\P00I_Tarea1\P00I_Tarea1\bin\Debug\net8.0\P00I_Tarea1.deps.json
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\P00I_Tarea1\P00I_Tarea1\bin\Debug\net8.0\P00I_Tarea1.runtimeconfig.json
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\P00I_Tarea1\P00I_Tarea1\bin\Debug\net8.0\P00I_Tarea1.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\P00I_Tarea1\P00I_Tarea1\bin\Debug\net8.0\P00I_Tarea1.pdb
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\P00I_Tarea1\P00I_Tarea1\obj\Debug\net8.0\P00I_Tarea1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\P00I_Tarea1\P00I_Tarea1\obj\Debug\net8.0\P00I_Tarea1.AssemblyInfoInputs.cache
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\P00I_Tarea1\P00I_Tarea1\obj\Debug\net8.0\P00I_Tarea1.AssemblyInfo.cs
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\P00I_Tarea1\P00I_Tarea1\obj\Debug\net8.0\P00I_Tarea1.csproj.CoreCompileInputs.cache
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\P00I_Tarea1\P00I_Tarea1\obj\Debug\net8.0\P00I_Tarea1.sourcelink.json
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\P00I_Tarea1\P00I_Tarea1\obj\Debug\net8.0\P00I_Tarea1.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\P00I_Tarea1\P00I_Tarea1\obj\Debug\net8.0\refint\P00I_Tarea1.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\P00I_Tarea1\P00I_Tarea1\obj\Debug\net8.0\P00I_Tarea1.pdb
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\P00I_Tarea1\P00I_Tarea1\obj\Debug\net8.0\P00I_Tarea1.genruntimeconfig.cache
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\P00I_Tarea1\P00I_Tarea1\obj\Debug\net8.0\ref\P00I_Tarea1.dll
