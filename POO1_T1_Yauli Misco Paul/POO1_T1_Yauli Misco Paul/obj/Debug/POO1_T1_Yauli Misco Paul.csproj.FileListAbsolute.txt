@@ -1,0 +1,86 @@
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\POO1_T1_Yauli Misco Paul.dll.config
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\POO1_T1_Yauli Misco Paul.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\POO1_T1_Yauli Misco Paul.pdb
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\csc.exe
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\csc.exe.config
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\csc.rsp
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\csi.exe
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\csi.exe.config
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\csi.rsp
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\System.AppContext.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\System.Console.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\System.IO.Compression.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\System.Net.Http.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\System.ValueTuple.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\vbc.exe
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\vbc.exe.config
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\vbc.rsp
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\Antlr3.Runtime.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\Newtonsoft.Json.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\System.Web.Helpers.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\System.Web.Mvc.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\System.Web.Optimization.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\System.Web.Razor.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\System.Web.WebPages.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\WebGrease.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\System.Web.Helpers.xml
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\System.Web.Mvc.xml
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\System.Web.Optimization.xml
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\System.Web.Razor.xml
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\System.Web.WebPages.xml
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\Newtonsoft.Json.xml
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\Antlr3.Runtime.pdb
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\es\System.Web.Razor.resources.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\obj\Debug\POO1_T1_Yauli Misco Paul.csproj.AssemblyReference.cache
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\obj\Debug\POO1_T1_Yauli Misco Paul.csproj.CoreCompileInputs.cache
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\obj\Debug\POO1_T1_.A978512E.Up2Date
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\obj\Debug\POO1_T1_Yauli Misco Paul.dll
+C:\Users\Yuli\Documents\Projects\Tercer  Semestre\POO\POO1_T1_Yauli Misco Paul\POO1_T1_Yauli Misco Paul\obj\Debug\POO1_T1_Yauli Misco Paul.pdb

@@ -1,0 +1,75 @@
+﻿@model POO1_T1_Yauli_Misco_Paul.Models.Trabajador
+
+@{
+    ViewBag.Title = "CreateTrabajador";
+}
+
+<h2>Create Trabajador</h2>
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Trabajador</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+           <label>Dni Trabajador</label>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.dniTrab, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.dniTrab, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label>Apellido</label>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.apeTrab, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.apeTrab, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label>Nombre</label>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.nomTrab, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.nomTrab, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label>Fecha Contrato</label>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.fecContrato, new { htmlAttributes = new { @class = "form-control", @type = "date" } })
+                @Html.ValidationMessageFor(model => model.fecContrato, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label>Categoria</label>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.categoriaTrab, new { htmlAttributes = new { @class = "form-control"} })
+                @Html.ValidationMessageFor(model => model.categoriaTrab, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group mt-2">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-success" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    <label class="fw-bold">Sueldo Basico: </label> @ViewBag.SueldoBasico <br />
+    <label class="fw-bold">Bonificacion: </label> @ViewBag.Bonificacion <br />
+    <label class="fw-bold">Monto: </label> @ViewBag.Monto <br />
+</div>
+
+<div>
+    @Html.ActionLink("Inicio", "", "" )
+</div>
+

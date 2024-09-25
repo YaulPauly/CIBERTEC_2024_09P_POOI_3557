@@ -1,0 +1,66 @@
+﻿@model IEnumerable<POO1_T1_Yauli_Misco_Paul.Models.Asistente>
+
+@{
+    ViewBag.Title = "ListadoAsistente";
+}
+
+<h2>Listado Asistente</h2>
+
+<p>
+    @Html.ActionLink("Crear Asistente", "CreateAsistente", "Planilla")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Dni
+        </th>
+        <th>
+            Apellido
+        </th>
+        <th>
+            Nombre
+        </th>
+        <th>
+            Fecha Contrato
+        </th>
+        <th>
+            Categoria
+        </th>
+        <th>
+           Numero Hijos
+        </th>
+        <th>
+           Grado Educacion
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.dniTrab)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.apeTrab)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.nomTrab)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.fecContrato)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.categoriaTrab)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.numeroHijos)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.gradoEducacion)
+        </td>
+    </tr>
+}
+</table>
+<div>
+    <label>Cantidad de registrados: </label> @ViewBag.CantidadRegistrados <br />
+</div>
